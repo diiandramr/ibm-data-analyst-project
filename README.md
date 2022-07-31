@@ -1,3 +1,3 @@
-# ibm-extracting-visualizing-stock-data
+# ibm-data-analyst-project
 
-IBM final assignment: Python Project for Data Science. Here are my submission showing both the Code and its Results/Output when executed from a Jupyter Notebook.
+Here are my submission showing both the Code and its Results/Output when executed from IBM Data Analyst Professional Certificate project in Coursera.
